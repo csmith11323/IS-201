@@ -1,0 +1,51 @@
+/* styles.css */
+
+/* Body styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+/* Header styles */
+h1 {
+    text-align: center;
+    color: #008000;
+}
+
+/* Paragraph styles */
+p {
+    line-height: 1.5;
+}
+
+/* List styles */
+ol {
+    list-style-type: none;
+    padding-left: 20px;
+}
+
+/* Anchor styles */
+a {
+    color: #0000EE;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Iframe styles */
+iframe {
+    display: block;
+    margin: 0 auto;
+}
+
+/* Footer styles */
+footer {
+    text-align: center;
+    padding: 20px 0;
+    background-color: #333;
+    color: #fff;
+}
